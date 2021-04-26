@@ -1,0 +1,87 @@
+*{
+background-color: #eaeaea;
+}
+
+
+header h1{
+    color: #404cda;
+    font-size: 68px;
+    margin-top: 149px;
+    margin-left: 144px;
+}
+
+
+header pre{
+    font-size: 34px;
+    margin-left: 140px;
+    margin-top: -42px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+.login{
+    border: 2px solid gray;
+    width: 327px;
+    margin-left: 860px;
+    padding: 51px;
+    background-color: #f6fbf6;
+    height: 300px;
+    margin-top: -280px;
+    border-radius: 15px;
+}
+
+
+#user-name{
+    padding: 20px;
+    margin-bottom: 19px;
+    width: 337px;
+    border-radius: 5px;
+    border: 2px solid gray;
+    margin: -39px;
+
+}
+#password{
+    padding: 20px;
+    margin-bottom: 23px;
+    width: 336px;
+    border-radius: 5px;
+    border: 2px solid gray;
+    margin: 37px;
+    margin-left: -38px;
+}
+
+#login-button{
+    padding: 14px;
+    width: 379px;
+    font-weight: bold;
+    color: white;
+    font-size: 27px;
+    background-color: #166fe5;
+    border-radius: 5px;
+    border: 2px solid gray;
+    margin-left: -34px;
+    cursor: pointer;
+}
+
+#create-button{
+    text-align: center;
+    margin-left: 55px;
+    padding: 16px;
+    width: 228px;
+    color: white;
+    background-color: #36a420;
+    border-color: #36a420;
+    font-size: 19px;
+    cursor: pointer;
+
+}
+
+#recover{
+    text-align: center;
+    color: blue;
+    cursor: pointer;
+}
+
+header .page{
+    margin-left:900px ;
+    font-size: 19px;
+}
